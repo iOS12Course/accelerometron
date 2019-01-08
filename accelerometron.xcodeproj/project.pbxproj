@@ -13,6 +13,7 @@
 		F63DADF521E2F6FA00E879A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F63DADF421E2F6FA00E879A1 /* Assets.xcassets */; };
 		F63DADF821E2F6FA00E879A1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F63DADF621E2F6FA00E879A1 /* LaunchScreen.storyboard */; };
 		F6DF5F1621E44A0A00311B68 /* ParallaxCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6DF5F1521E44A0A00311B68 /* ParallaxCell.swift */; };
+		F6DF5F1821E44BB700311B68 /* Images+Names.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6DF5F1721E44BB700311B68 /* Images+Names.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F63DADF721E2F6FA00E879A1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F63DADF921E2F6FA00E879A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F6DF5F1521E44A0A00311B68 /* ParallaxCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParallaxCell.swift; sourceTree = "<group>"; };
+		F6DF5F1721E44BB700311B68 /* Images+Names.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Images+Names.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				F63DADF421E2F6FA00E879A1 /* Assets.xcassets */,
 				F63DADF621E2F6FA00E879A1 /* LaunchScreen.storyboard */,
 				F63DADF921E2F6FA00E879A1 /* Info.plist */,
+				F6DF5F1721E44BB700311B68 /* Images+Names.swift */,
 			);
 			path = accelerometron;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 			files = (
 				F6DF5F1621E44A0A00311B68 /* ParallaxCell.swift in Sources */,
 				F63DADF021E2F6F900E879A1 /* ListTableViewController.swift in Sources */,
+				F6DF5F1821E44BB700311B68 /* Images+Names.swift in Sources */,
 				F63DADEE21E2F6F900E879A1 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
